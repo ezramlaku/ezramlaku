@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ezramlaku
-- 👀 I’m interested in AI,problem solving,analysis of data,Problem solving,code
+- 👀 I’m interested in AI,problem solving,analysis of data,code
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me Ezra242810@gmail.com
